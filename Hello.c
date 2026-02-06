@@ -1,4 +1,4 @@
-//Challenge Question #2
+//Challenge Question #3
 
 #include <stdio.h>
 #include <stdlib.h>
