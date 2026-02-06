@@ -1,4 +1,4 @@
-//Chapter 1 - Challenge Question #2
+//Challenge Question #2
 
 
 public class Hello {
