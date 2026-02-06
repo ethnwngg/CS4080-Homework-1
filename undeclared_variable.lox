@@ -1,0 +1,1 @@
+print foo; //Outputs an error as the variable does not exist
